@@ -1,4 +1,4 @@
-﻿.light-theme {
+﻿.lighttheme {
     color: blueviolet;
     background-color: white;
 }
@@ -28,6 +28,17 @@
     margin-top: -700px;
 }
 
+.text {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.trans {
+    border-radius: 25px;
+    border: solid;
+    border-color: gold;
+    left: 10px;
+}
+
 h1 {
     font-family: 'Oswald', sans-serif;
 }
@@ -42,7 +53,7 @@ h1 {
     margin-right: 300p;
 }
 
-.dark-theme {
+.darktheme {
     color: blueviolet;
     background-color: black;
 }
@@ -54,4 +65,18 @@ li {
 button {
     margin-right: 50px;
     width: 100px;
+}
+
+.upd {
+    color: grey;
+    text-decoration: none;
+}
+
+.blog {
+    width: 120px;
+    padding-left: 20px;
+    border: solid;
+    border-color: blueviolet;
+    border-radius: 10px;
+    border-width: 4px;
 }
