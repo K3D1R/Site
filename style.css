@@ -1,0 +1,57 @@
+﻿.light-theme {
+    color: blueviolet;
+    background-color: white;
+}
+
+.button {
+    border: 1 solid;
+    border-color: blueviolet;
+    border-radius: 10px;
+}
+
+.left {
+    height: 700px;
+    width: 200px;
+    padding-left: 60px;
+    border: solid;
+    border-color: blueviolet;
+    border-radius: 25px;
+}
+
+.right {
+    border: solid;
+    border-color: blueviolet;
+    border-radius: 10px;
+    height: 700px;
+    width: 1050px;
+    margin-left: 280px;
+    margin-top: -700px;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+
+.nav {
+    padding: 0px 20px 10px 200px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.section {
+    width: min-content;
+    margin-right: 300p;
+}
+
+.dark-theme {
+    color: blueviolet;
+    background-color: black;
+}
+
+li {
+    list-style-type: none;
+}
+
+button {
+    margin-right: 50px;
+    width: 100px;
+}
